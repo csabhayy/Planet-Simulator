@@ -6,7 +6,7 @@ This project aims to provide an interactive simulation of the solar system, show
 
 ## Table of Contents
 
-- [Demo]()
+- [Demo](https://csabhay.itch.io/planetary-visuals)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,7 +15,7 @@ This project aims to provide an interactive simulation of the solar system, show
 
 ## Demo
 
-Insert a brief description of the project here and include a screenshot or GIF that demonstrates the simulation in action.
+https://csabhay.itch.io/planetary-visuals
 
 ## Features
 
@@ -28,15 +28,11 @@ Insert a brief description of the project here and include a screenshot or GIF t
 Provide step-by-step instructions on how to install and set up the project locally. Include any prerequisites, dependencies, or environment setup required.
 
 1. Clone this repository: `https://github.com/csabhayy/Planet-Simulator.git`
-2. Install dependencies: `pip install pygame
+2. Install dependencies: `pip install pygame`
 
 ## Usage
 
-Explain how to use your simulation once it's set up. Include command examples, configuration instructions, and any other details users might need.
-
-1. Run the simulation: `npm start` or `yarn start`
-2. Open your web browser and go to `http://localhost:3000`
-3. Interact with the simulation using the provided controls and UI elements.
+Created a simulation inside a simulation.
 
 ## Contributing
 
@@ -52,7 +48,3 @@ Contributions are welcome! If you'd like to contribute to the project, follow th
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code as long as you include the original license file.
-
----
-
-Feel free to customize this README template according to your project's specific details and requirements. Good luck, and happy coding!
